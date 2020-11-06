@@ -10,6 +10,7 @@ In this project, you will use what you've learned about deep neural networks and
 ![Alt text](sign_samples/5.jpg?raw=false "Optional Title")
 ![Alt text](sign_samples/6.jpg?raw=false "Optional Title")
 ![Alt text](sign_samples/7.jpg?raw=false "Optional Title")
+<img src="sign_samples/7.jpg" width="100" height="100"/>
 
 The Project
 ---
